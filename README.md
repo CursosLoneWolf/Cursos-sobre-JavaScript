@@ -8,9 +8,9 @@ JavaScript es un lenguaje de programación interpretado, basado en prototipos, u
 
 La versión actual es Java 1.8, que agrega expresiones de generador y expresiones de cierre a las características previas del lenguaje.
 
-## JavaScript - Master | 1
-	
-	# http://linkshrink.net/7FeTZS
+JavaScript - Master | 2
+
+## http://linkshrink.net/7BpK5f
 
 ### Like and Suscribance
 #### Todos los Sabados nuevo enlace
